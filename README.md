@@ -69,3 +69,6 @@ Betriebsdauer (h) = Energie (Wh) / Geräteleistung (W)
 ## Lizenz
 
 Frei zur Verwendung und Bearbeitung.
+
+![Screenshot 2025-04-17 205439](https://github.com/user-attachments/assets/87164fb1-0cdb-4630-bf98-e72accdfe730)
+
